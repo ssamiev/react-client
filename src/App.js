@@ -31,12 +31,12 @@ function App() {
   
   return (
     <div className="App">
-       {/* <Routes>
+       <Routes>
         <Route path="/" element={<Layout/>}>
             <Route path='/' element ={<Home/>}>
             </Route>
         </Route>
-      </Routes>  */}
+      </Routes>
     </div>
 
 );}
